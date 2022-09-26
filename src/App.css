@@ -1,0 +1,10 @@
+body {
+
+  /* background-image: url(../img/cielo.jpg); */
+  background-image: url("../img/1823-color-pastel.jpg") ;
+  background-size: cover;
+}
+
+.container {
+  background: rgba(135, 179, 245, 0.41);
+}
